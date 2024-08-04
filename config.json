@@ -6,7 +6,7 @@
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "cards",
+  "theme": "flow",
   "css": "./custom.css",
   "footer": "还有很远的路，小颖我们牵手慢慢走", 
   "usage-stats": false
